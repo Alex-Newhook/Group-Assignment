@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlooringCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4a91f66bcf99f5d93bd9daa46db04dda6d067a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00d0d5729e15b564245095a3bf115b77ff7d3ad1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlooringCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlooringCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
