@@ -102,3 +102,7 @@ else if (flooringType == "C")
     finalCost = floorArea * sqFtPrice;
     floorMaterial = "Cherry";
 }
+
+//Step 13 - Used console.WriteLine to print out total to the user, inputted the variables declared in previous step to display the variables based on the input from the users choice of A, B OR C. 
+Console.WriteLine($"You have selected {floorMaterial} with a floor area of: {floorArea:F2} square feet, your total cost is: ${finalCost:F2}"); 
+
