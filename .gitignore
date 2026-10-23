@@ -1,0 +1,10 @@
+# Visual Studio temporary files
+**/.vs/
+
+# Build output files
+**/bin/
+**/obj/
+
+# Visual Studio user settings
+*.user
+*.suo
