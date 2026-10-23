@@ -8,3 +8,5 @@
 # Visual Studio user settings
 *.user
 *.suo
+/Group-Assignment/obj/Debug/net8.0/FlooringCalculator.AssemblyInfo.cs
+/Group-Assignment/obj/Debug/net8.0/FlooringCalculator.AssemblyInfoInputs.cache
