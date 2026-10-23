@@ -22,7 +22,8 @@ used a double to capture the decimal number, .TryParse translate the input to th
 while (double.TryParse(lengthInput, out flooringLength) == false)
 {
     /*set upan error so if the user enetered a non accepted 
-     input type, making the condition == false, they would be given said message. And they will continue to receive it until they enter a valid number */
+     input type, making the condition == false, they would be given said message. And they will continue to 
+    receive it until they enter a valid number */
     Console.WriteLine("Error: Please enter a valid number");
       Console.WriteLine("What is the length of the room in feet: ");
       lengthInput = Console.ReadLine();
@@ -45,4 +46,29 @@ while (double.TryParse(WidthInput, out flooringWidth) == false)
     WidthInput = Console.ReadLine();
 
 }
+//Step 9 - Asking the user to choose which flooring they would like, assigning A, B and C the same values as Bamboo, Pine and Cherry respectively.
 
+Console.WriteLine("What kind of flooring would you like:");
+string A = Bamboo;
+string B = Pine;
+string C = Cherry;
+/* Step 10 - The console writes the options. The assigns the user input into the flooring variable we've already created. 
+ * I added a .ToUpper() element so the user's selection is valid both in upper case and lower case*/
+
+Console.WriteLine("A - " + Bamboo);
+Console.WriteLine("B - " + Pine);
+Console.WriteLine("C - " + Cherry);
+flooringType = Console.ReadLine().ToUpper();
+/* I added a while statement to ensure that the input is valid. If the value stored into flooringType - throught he user's input - is not equal to A, B or, C 
+ * the user gets an error message and is asked to input a correct value. This will run until a correct value is put in.*/
+
+while (flooringType != "A" && flooringType != "B" && flooringType != "C") 
+{
+    Console.WriteLine("Error: Please enter a valid choice");
+
+    Console.WriteLine("What kind of flooring would you like:");
+    Console.WriteLine("A - Bamboo");
+    Console.WriteLine("B - Pine");
+    Console.WriteLine("C - Cherry");
+    flooringType = Console.ReadLine().ToUpper();
+}
