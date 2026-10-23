@@ -1,0 +1,16 @@
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\bin\Debug\net8.0\FlooringCalculator.exe
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\bin\Debug\net8.0\FlooringCalculator.deps.json
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\bin\Debug\net8.0\FlooringCalculator.runtimeconfig.json
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\bin\Debug\net8.0\FlooringCalculator.dll
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\bin\Debug\net8.0\FlooringCalculator.pdb
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\FlooringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\FlooringCalculator.AssemblyInfoInputs.cache
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\FlooringCalculator.AssemblyInfo.cs
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\FlooringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\FlooringCalculator.sourcelink.json
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\FlooringCalculator.dll
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\refint\FlooringCalculator.dll
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\FlooringCalculator.pdb
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\FlooringCalculator.genruntimeconfig.cache
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\ref\FlooringCalculator.dll
+C:\Users\zineb\source\repos\Flooring\Group-Assignment\obj\Debug\net8.0\Flooring.1CECD2D9.Up2Date
